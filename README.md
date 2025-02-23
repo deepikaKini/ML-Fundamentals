@@ -1,6 +1,6 @@
 # Machine Learning Fundamentals
 
-Welcome to the **Machine Learning Fundamentals** course repository! This guide covers core concepts and practices in machine learning, offering insights into essential techniques, best practices, and resources for further learning.
+Welcome to the **Machine Learning Fundamentals** course repository! This guide covers core concepts and practices in machine learning, offering insights into essential techniques, best practices, and resources for further learning. I add my understanding of basic and advanced concepts I have been learning over the years, here. (Bad memory!). This repo and doc will help me revise concepts whenever needed.
 
 ---
 
@@ -49,14 +49,14 @@ Welcome to the **Machine Learning Fundamentals** course repository! This guide c
    - **Ensemble Techniques**: Methods like AdaBoost and Random Forest can be tuned to focus on minority classes.
 
 ### 6. CONCEPTS / TERMS:
-Gaussian distribution, Mahalanobis distance ( and other distance metrics)
-Otsu (clustering), occam's razor, No free lunch theorem, Mercer's theorem
-M estimate for Bayes
-Bagging Boosting
-Cross validation
-Bias vs Variance
-FLD
-XOR problem
+- Gaussian distribution, Mahalanobis distance ( and other distance metrics)
+- Otsu (clustering), occam's razor, No free lunch theorem, Mercer's theorem
+- M estimate for Bayes
+- Bagging Boosting
+- Cross validation
+- Bias vs Variance
+- FLD
+- XOR problem
 
 ---
 
@@ -64,9 +64,17 @@ XOR problem
 
 - [Data Mining Map by Saed Sayad](https://www.saedsayad.com/data_mining_map.htm): A comprehensive guide to data mining techniques and their applications.
 - **Books**:
-   - *“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”* by Aurélien Géron
+   - *“Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow”* by Aurélien Géron 
    - *“Pattern Recognition and Machine Learning”* by Christopher Bishop
+   - [*"INTRODUCTION TO LINEAR ALGEBRA"* by Gilbert Strang](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf)
+   - [*"An Introduction to Statistical Learning"* by Hastie et al.](https://www.statlearning.com/)
+   - [*"The Elements of Statistical Learning"* by Hastie et al.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 - **Online Courses**:
    - **Coursera**: [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
    - **Udemy Paid**: [Machine Learning A-Z]
-
+-  **OTHER RESOURCES**:
+  - Statistics and Probability for Data Science Textbook PDF - https://lnkd.in/gSqmf53r
+  - Free A/B Testing Course by Google - https://lnkd.in/gC46WKrA
+  - Stanford Algorithms Specialization - https://lnkd.in/gEwzS5sN
+  - Deep Learning by Ian Goodfellow Textbook - https://lnkd.in/g_EUDGHa
+  - Reinforcement Learning: An Introduction by Sutton and Barto PDF - https://lnkd.in/gkrtv6HP
